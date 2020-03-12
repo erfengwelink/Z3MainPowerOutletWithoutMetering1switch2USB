@@ -1,0 +1,1 @@
+"$4/developer/adapter_packs/python/bin/python3"  "$(dirname "$0")/Z3MainPowerOutletWithoutMeteringSoc1switch2usb-postbuild.py" "$1" "$2" "" "$4/support/common/wine/usr/bin/wine cmd /C " "$3"
